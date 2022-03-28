@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="120" viewBox="0 0 500 120">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 63.5px;
+        text-anchor: middle;
+        font-family: "Arial Rounded MT Bold";
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <text id="milker_swap" data-name="milker swap" class="cls-1" x="251" y="84"><tspan x="251">milker swap</tspan></text>
+</svg>
